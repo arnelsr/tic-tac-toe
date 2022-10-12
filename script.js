@@ -39,7 +39,7 @@ const Gameboard = (() => {
     }
     
     return {
-      gameboardArray, playerMove
+      playerMove
     };
 })();
 //game object module
